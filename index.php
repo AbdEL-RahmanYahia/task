@@ -29,3 +29,7 @@ if(in_array("AbdEL_Rahman",$names) OR in_array("abdo",$names)){
     echo "Nour already exists ";
 
 }
+else{
+
+    echo" sorry not exist "
+}
